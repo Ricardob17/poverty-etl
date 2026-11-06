@@ -1,0 +1,343 @@
+Country Name,Country Code,year,tasa_pobreza
+Albania,ALB,2020,0.3
+Argentina,ARG,2020,2.2
+Armenia,ARM,2020,1.5
+Australia,AUS,2020,0.9
+Austria,AUT,2020,0.7
+Burundi,BDI,2020,74.2
+Bélgica,BEL,2020,0.1
+Bulgaria,BGR,2020,0.7
+Belarús,BLR,2020,0.0
+Bolivia,BOL,2020,4.2
+Brasil,BRA,2020,2.8
+Canadá,CAN,2020,0.1
+Suiza,CHE,2020,0.1
+Chile,CHL,2020,1.7
+China,CHN,2020,0.0
+"Congo, República Democrática del",COD,2020,85.3
+Colombia,COL,2020,15.8
+Comoras,COM,2020,8.9
+Costa Rica,CRI,2020,3.4
+Chipre,CYP,2020,0.0
+República Checa,CZE,2020,0.0
+Alemania,DEU,2020,0.3
+Dinamarca,DNK,2020,0.2
+República Dominicana,DOM,2020,1.3
+Asia oriental y el Pacífico,EAS,2020,2.7
+Europa y Asia central,ECS,2020,0.8
+Ecuador,ECU,2020,8.4
+España,ESP,2020,1.1
+Estonia,EST,2020,0.4
+"Situaciones de fragilidad, conflicto y violencia (FCV)",FCV,2020,37.1
+Finlandia,FIN,2020,0.0
+Francia,FRA,2020,0.1
+Reino Unido,GBR,2020,0.5
+Georgia,GEO,2020,12.0
+Gambia,GMB,2020,22.0
+Grecia,GRC,2020,1.1
+Ingreso alto,HIC,2020,0.4
+Croacia,HRV,2020,0.4
+total de la AIF,IDA,2020,35.7
+Indonesia,IDN,2020,9.8
+Irlanda,IRL,2020,0.2
+"Irán, República Islámica del",IRN,2020,4.6
+Israel,ISR,2020,0.7
+Italia,ITA,2020,0.9
+Japón,JPN,2020,1.2
+Kazajstán,KAZ,2020,0.0
+Kenya,KEN,2020,44.4
+Kirguistán,KGZ,2020,9.4
+"Corea, República de",KOR,2020,0.1
+América Latina y el Caribe,LCN,2020,5.8
+Países de ingreso bajo,LIC,2020,52.5
+Países de ingreso mediano bajo,LMC,2020,16.0
+Ingreso mediano y bajo,LMY,2020,13.8
+Lituania,LTU,2020,0.5
+Luxemburgo,LUX,2020,0.0
+Letonia,LVA,2020,0.5
+República de Moldova,MDA,2020,0.0
+México,MEX,2020,4.3
+Malta,MLT,2020,0.4
+Montenegro,MNE,2020,2.2
+América del Norte,NAC,2020,0.3
+Países Bajos,NLD,2020,0.0
+Noruega,NOR,2020,0.3
+Perú,PER,2020,10.3
+Polonia,POL,2020,0.2
+Portugal,PRT,2020,0.6
+Paraguay,PRY,2020,2.6
+Rumania,ROU,2020,2.4
+Federación de Rusia,RUS,2020,0.1
+Asia meridional,SAS,2020,9.4
+Serbia,SRB,2020,2.0
+África al sur del Sahara,SSF,2020,46.0
+República Eslovaca,SVK,2020,0.3
+Eslovenia,SVN,2020,0.0
+Suecia,SWE,2020,0.5
+Tailandia,THA,2020,0.1
+Turquía,TUR,2020,1.1
+Ucrania,UKR,2020,0.0
+Ingreso mediano alto,UMC,2020,3.2
+Uruguay,URY,2020,0.3
+Estados Unidos,USA,2020,0.4
+Viet Nam,VNM,2020,1.3
+Mundo,WLD,2020,11.4
+Kosovo,XKX,2020,16.8
+Argentina,ARG,2021,1.4
+Armenia,ARM,2021,2.1
+Austria,AUT,2021,0.5
+Bélgica,BEL,2021,0.0
+Benin,BEN,2021,27.2
+Burkina Faso,BFA,2021,42.1
+Bulgaria,BGR,2021,1.2
+Bosnia y Herzegovina,BIH,2021,0.3
+Bolivia,BOL,2021,3.1
+Brasil,BRA,2021,7.5
+República Centroafricana,CAF,2021,71.6
+Canadá,CAN,2021,0.2
+Suiza,CHE,2021,0.0
+China,CHN,2021,0.0
+Côte d'Ivoire,CIV,2021,20.8
+Camerún,CMR,2021,26.7
+Colombia,COL,2021,11.2
+Costa Rica,CRI,2021,2.2
+Chipre,CYP,2021,0.0
+República Checa,CZE,2021,0.1
+Alemania,DEU,2021,0.6
+Dinamarca,DNK,2021,0.2
+República Dominicana,DOM,2021,1.3
+Asia oriental y el Pacífico,EAS,2021,2.6
+Europa y Asia central,ECS,2021,0.8
+Ecuador,ECU,2021,5.3
+"Egipto, República Árabe de",EGY,2021,1.4
+España,ESP,2021,0.7
+Estonia,EST,2021,0.3
+Etiopía,ETH,2021,38.6
+"Situaciones de fragilidad, conflicto y violencia (FCV)",FCV,2021,38.4
+Finlandia,FIN,2021,0.0
+Francia,FRA,2021,0.1
+Reino Unido,GBR,2021,0.4
+Georgia,GEO,2021,10.8
+Guinea-Bissau,GNB,2021,39.9
+Grecia,GRC,2021,0.7
+Ingreso alto,HIC,2021,0.4
+Croacia,HRV,2021,0.3
+total de la AIF,IDA,2021,36.2
+Indonesia,IDN,2021,8.6
+Irlanda,IRL,2021,0.1
+"Irán, República Islámica del",IRN,2021,3.7
+Israel,ISR,2021,0.6
+Italia,ITA,2021,0.9
+Jamaica,JAM,2021,1.4
+Kazajstán,KAZ,2021,0.0
+Kenya,KEN,2021,46.4
+Kirguistán,KGZ,2021,5.6
+"Corea, República de",KOR,2021,0.1
+América Latina y el Caribe,LCN,2021,6.2
+Países de ingreso bajo,LIC,2021,53.2
+Países de ingreso mediano bajo,LMC,2021,15.3
+Ingreso mediano y bajo,LMY,2021,13.6
+Lituania,LTU,2021,0.3
+Luxemburgo,LUX,2021,0.1
+Letonia,LVA,2021,0.5
+República de Moldova,MDA,2021,0.2
+Madagascar,MDG,2021,69.2
+Malí,MLI,2021,36.1
+Malta,MLT,2021,0.1
+Montenegro,MNE,2021,2.5
+Malasia,MYS,2021,0.0
+América del Norte,NAC,2021,0.3
+Níger,NER,2021,60.5
+Países Bajos,NLD,2021,0.1
+Noruega,NOR,2021,0.2
+Panamá,PAN,2021,3.3
+Perú,PER,2021,5.2
+Filipinas,PHL,2021,8.1
+Polonia,POL,2021,0.1
+Portugal,PRT,2021,0.3
+Paraguay,PRY,2021,1.9
+Rumania,ROU,2021,2.0
+Federación de Rusia,RUS,2021,0.2
+Asia meridional,SAS,2021,7.9
+Senegal,SEN,2021,17.9
+El Salvador,SLV,2021,5.1
+Serbia,SRB,2021,1.7
+África al sur del Sahara,SSF,2021,46.2
+República Eslovaca,SVK,2021,0.3
+Eslovenia,SVN,2021,0.0
+Suecia,SWE,2021,0.6
+Togo,TGO,2021,34.7
+Tailandia,THA,2021,0.0
+Tayikistán,TJK,2021,9.1
+Tonga,TON,2021,0.4
+Túnez,TUN,2021,0.7
+Turquía,TUR,2021,0.9
+Ingreso mediano alto,UMC,2021,3.1
+Uruguay,URY,2021,0.2
+Estados Unidos,USA,2021,0.3
+Uzbekistán,UZB,2021,4.4
+Mundo,WLD,2021,11.3
+Kosovo,XKX,2021,25.0
+Argentina,ARG,2022,1.3
+Armenia,ARM,2022,1.9
+Austria,AUT,2022,0.6
+Bélgica,BEL,2022,0.0
+Bangladesh,BGD,2022,5.9
+Bulgaria,BGR,2022,1.1
+Bolivia,BOL,2022,3.3
+Brasil,BRA,2022,4.9
+Bhután,BTN,2022,0.0
+Canadá,CAN,2022,0.3
+Suiza,CHE,2022,0.2
+Chile,CHL,2022,0.6
+China,CHN,2022,0.0
+Colombia,COL,2022,9.3
+Costa Rica,CRI,2022,1.6
+Chipre,CYP,2022,0.0
+República Checa,CZE,2022,0.0
+Alemania,DEU,2022,0.7
+Dinamarca,DNK,2022,0.2
+República Dominicana,DOM,2022,1.0
+Asia oriental y el Pacífico,EAS,2022,2.4
+Europa y Asia central,ECS,2022,0.8
+Ecuador,ECU,2022,4.4
+España,ESP,2022,0.8
+Estonia,EST,2022,0.5
+"Situaciones de fragilidad, conflicto y violencia (FCV)",FCV,2022,38.2
+Finlandia,FIN,2022,0.1
+Francia,FRA,2022,0.1
+Georgia,GEO,2022,7.7
+Guinea Ecuatorial,GNQ,2022,8.8
+Grecia,GRC,2022,0.6
+Ingreso alto,HIC,2022,0.7
+Croacia,HRV,2022,0.4
+total de la AIF,IDA,2022,35.9
+Indonesia,IDN,2022,7.9
+India,IND,2022,5.3
+Irlanda,IRL,2022,0.2
+"Irán, República Islámica del",IRN,2022,2.8
+Israel,ISR,2022,0.4
+Italia,ITA,2022,0.7
+Kenya,KEN,2022,45.5
+Kirguistán,KGZ,2022,4.5
+Líbano,LBN,2022,5.8
+América Latina y el Caribe,LCN,2022,5.0
+Países de ingreso bajo,LIC,2022,52.5
+Países de ingreso mediano bajo,LMC,2022,14.4
+Ingreso mediano y bajo,LMY,2022,13.0
+Lituania,LTU,2022,0.8
+Luxemburgo,LUX,2022,0.1
+Letonia,LVA,2022,0.4
+República de Moldova,MDA,2022,0.0
+"Oriente Medio, Norte de África, Afganistán y Pakistán",MEA,2022,13.5
+México,MEX,2022,2.3
+Malta,MLT,2022,0.1
+Mongolia,MNG,2022,0.4
+Mozambique,MOZ,2022,81.4
+América del Norte,NAC,2022,1.2
+Nigeria,NGA,2022,41.8
+Noruega,NOR,2022,0.3
+Nepal,NPL,2022,2.4
+Perú,PER,2022,4.8
+Polonia,POL,2022,0.3
+Portugal,PRT,2022,0.2
+Paraguay,PRY,2022,3.2
+Rumania,ROU,2022,1.5
+Federación de Rusia,RUS,2022,0.1
+Asia meridional,SAS,2022,6.1
+El Salvador,SLV,2022,5.2
+Serbia,SRB,2022,2.0
+África al sur del Sahara,SSF,2022,45.6
+Suriname,SUR,2022,2.2
+República Eslovaca,SVK,2022,0.7
+Eslovenia,SVN,2022,0.0
+Suecia,SWE,2022,1.3
+República Árabe Siria,SYR,2022,18.0
+Chad,TCD,2022,39.5
+Tailandia,THA,2022,0.0
+Tayikistán,TJK,2022,8.9
+Turquía,TUR,2022,0.5
+Ingreso mediano alto,UMC,2022,2.6
+Uruguay,URY,2022,0.2
+Estados Unidos,USA,2022,1.4
+Uzbekistán,UZB,2022,4.4
+Viet Nam,VNM,2022,1.6
+Mundo,WLD,2022,10.9
+Kosovo,XKX,2022,10.0
+Sudáfrica,ZAF,2022,17.4
+Zambia,ZMB,2022,71.7
+Argentina,ARG,2023,1.2
+Armenia,ARM,2023,1.9
+Austria,AUT,2023,0.5
+Bélgica,BEL,2023,0.1
+Bulgaria,BGR,2023,1.0
+Bolivia,BOL,2023,2.8
+Brasil,BRA,2023,3.8
+Suiza,CHE,2023,0.1
+Colombia,COL,2023,8.6
+Costa Rica,CRI,2023,1.5
+Chipre,CYP,2023,0.0
+República Checa,CZE,2023,0.0
+Dinamarca,DNK,2023,0.4
+República Dominicana,DOM,2023,1.3
+Asia oriental y el Pacífico,EAS,2023,2.2
+Europa y Asia central,ECS,2023,0.7
+Ecuador,ECU,2023,4.7
+España,ESP,2023,0.8
+Estonia,EST,2023,0.3
+"Situaciones de fragilidad, conflicto y violencia (FCV)",FCV,2023,38.9
+Finlandia,FIN,2023,0.2
+Francia,FRA,2023,0.1
+Georgia,GEO,2023,5.8
+Grecia,GRC,2023,0.6
+Guatemala,GTM,2023,9.7
+Ingreso alto,HIC,2023,0.6
+Honduras,HND,2023,17.0
+Croacia,HRV,2023,0.3
+total de la AIF,IDA,2023,36.0
+Indonesia,IDN,2023,6.7
+India,IND,2023,2.6
+Irlanda,IRL,2023,0.1
+"Irán, República Islámica del",IRN,2023,2.5
+Iraq,IRQ,2023,0.5
+Italia,ITA,2023,0.9
+Kirguistán,KGZ,2023,2.7
+Kiribati,KIR,2023,0.9
+América Latina y el Caribe,LCN,2023,4.6
+Países de ingreso bajo,LIC,2023,52.7
+Países de ingreso mediano bajo,LMC,2023,13.3
+Ingreso mediano y bajo,LMY,2023,12.6
+Lituania,LTU,2023,1.1
+Luxemburgo,LUX,2023,0.1
+Letonia,LVA,2023,0.4
+República de Moldova,MDA,2023,0.1
+"Oriente Medio, Norte de África, Afganistán y Pakistán",MEA,2023,13.9
+Malta,MLT,2023,0.4
+América del Norte,NAC,2023,1.1
+Noruega,NOR,2023,0.2
+Panamá,PAN,2023,3.7
+Perú,PER,2023,5.9
+Filipinas,PHL,2023,5.3
+Polonia,POL,2023,0.2
+Portugal,PRT,2023,0.4
+Paraguay,PRY,2023,2.4
+Ribera Occidental y Gaza,PSE,2023,2.1
+Rumania,ROU,2023,0.7
+Federación de Rusia,RUS,2023,0.1
+Rwanda,RWA,2023,38.6
+Asia meridional,SAS,2023,4.1
+El Salvador,SLV,2023,4.6
+Serbia,SRB,2023,1.1
+África al sur del Sahara,SSF,2023,45.5
+República Eslovaca,SVK,2023,0.5
+Eslovenia,SVN,2023,0.0
+Suecia,SWE,2023,0.8
+Tailandia,THA,2023,0.0
+Tayikistán,TJK,2023,7.3
+Turquía,TUR,2023,0.2
+Uganda,UGA,2023,54.4
+Ingreso mediano alto,UMC,2023,2.3
+Uruguay,URY,2023,0.2
+Estados Unidos,USA,2023,1.2
+Uzbekistán,UZB,2023,4.1
+Mundo,WLD,2023,10.5
