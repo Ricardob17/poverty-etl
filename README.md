@@ -15,7 +15,6 @@ Python, Pandas, Matplotlib
 3. **Load:** Tabla maestra unificada `master_poverty_data.csv`
 
 ## Hallazgos (2020)
-## Hallazgos (2020)
 - País más desigual: Kosovo (Gini 57.4, pobreza 16.8%)
 - Outlier extremo: Congo Dem. Rep. (Gini 44.7, pobreza 85.3%)
 - Insight clave: Alta desigualdad no implica alta pobreza (ej: Costa Rica Gini 49.2 pero solo 3.4% pobreza)
