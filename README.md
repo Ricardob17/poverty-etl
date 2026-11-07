@@ -2,8 +2,6 @@
 
 # Pipeline ETL de Pobreza y Desigualdad - Banco Mundial
 
-# ETL de Pobreza y Desigualdad - Banco Mundial
-
 Pipeline ETL completo que extrae, limpia y analiza 5 indicadores del Banco Mundial (2020-2023).
 
 ## Stack
